@@ -7,7 +7,7 @@
 
     <servlet>
         <servlet-name>EmailListServlet</servlet-name>
-        <servlet-class>murach.email.EmailListServlet</servlet-class>
+        <servlet-class>test.EmailListServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>EmailListServlet</servlet-name>
@@ -20,7 +20,7 @@
 
     <welcome-file-list>
         <welcome-file>index.html</welcome-file>
-        <welcome-file>thanks.jsp</welcome-file>
+        <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
 
 </web-app>
